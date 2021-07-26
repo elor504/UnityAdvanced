@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d34d8474c7e668a44957d1007370607e, type: 3}
+  m_Name: GrassLandSO
+  m_EditorClassIdentifier: 
+  region: 0
+  monsters:
+  - {fileID: 11400000, guid: 1293d5be4fb771a4ba8602104087af79, type: 2}
+  - {fileID: 11400000, guid: bbbaf2dc92f459e43a6f067c3e98f113, type: 2}
+  - {fileID: 11400000, guid: 0b0cd780eea9e7e46bf4a924617fd39c, type: 2}
+  - {fileID: 11400000, guid: 245afdc38af5377468d2182ab9c7d782, type: 2}
